@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=anjihong&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Unity%20Client%20Developer&descAlignY=55&descAlignX=50" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=460&lines=Unity+Client+Developer;ECS+%2F+Shader+%2F+Gameplay;Steam+%26+Live+Service+Experience" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=460&lines=Unity+Client+Developer;Steam+%26+Live+Service+Experience" />
 
 </div>
 
