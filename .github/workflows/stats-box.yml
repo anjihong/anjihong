@@ -1,0 +1,18 @@
+name: Update GitHub Stats Gist
+on:
+    workflow_dispatch:
+    schedule:
+        - cron: '0 */12 * * *'
+jobs:
+    run:
+        runs-on: ubuntu-latest
+        steps:
+            - uses: actions/setup-node@master
+              with:
+                  node-version: 20
+            - run: npx github-stats-box@1
+              env:
+                  GH_TOKEN: ${{ secrets.GH_TOKEN }} # 저장소 Settings > Secrets 에 등록
+                  GIST_ID: PUT_YOUR_GIST_ID_HERE # gist URL 뒤쪽 ID
+                  ALL_COMMITS: true
+                  K_FORMAT: false
