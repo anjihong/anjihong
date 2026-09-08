@@ -13,6 +13,6 @@ jobs:
             - run: npx github-stats-box@1
               env:
                   GH_TOKEN: ${{ secrets.GH_TOKEN }} # 저장소 Settings > Secrets 에 등록
-                  GIST_ID: PUT_YOUR_GIST_ID_HERE # gist URL 뒤쪽 ID
+                  GIST_ID: b93ef3b77c9c01deee617058127a8366 # gist URL 뒤쪽 ID
                   ALL_COMMITS: true
                   K_FORMAT: false
