@@ -56,8 +56,6 @@
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=anjihong&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anjihong&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Streak](https://streak-stats.demolab.com?user=anjihong&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
 ![3D Contribution](./profile-3d-contrib/profile-night-rainbow.svg)
 
 </div>
@@ -67,16 +65,5 @@
 - **2026 메커톤 우수상** — 넥슨코리아
 - **2025 루키 게임 콘테스트 2위** — 게임핑
 - 한국멀티미디어학회 논문지 제29권 제8호(2026.8) 게재 예정
-
-## 🔗 Contact
-
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:meeunhonji@gmail.com)
-[![Notion](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=notion&logoColor=white)](https://github.com/anjihong)
-
-![visitors](https://komarev.com/ghpvc/?username=anjihong&color=6c63ff&style=flat-square)
-
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer" />
