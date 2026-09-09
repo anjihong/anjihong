@@ -58,6 +58,8 @@
 
 [![Streak](https://streak-stats.demolab.com?user=anjihong&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
+![3D Contribution](./profile-3d-contrib/profile-night-rainbow.svg)
+
 </div>
 
 ## 🏆 Awards
