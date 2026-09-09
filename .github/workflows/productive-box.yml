@@ -1,0 +1,14 @@
+name: Update productive-box gist
+on:
+    workflow_dispatch:
+    schedule:
+        - cron: '0 15 * * *'
+jobs:
+    update-gist:
+        runs-on: ubuntu-latest
+        steps:
+            - uses: maxam2017/productive-box@master
+              env:
+                  GH_TOKEN: ${{ secrets.GH_TOKEN }} # stats-box 와 동일한 시크릿 재사용
+                  GIST_ID: PUT_SECOND_GIST_ID_HERE # stats-box 와 다른 새 gist
+                  TIMEZONE: Asia/Seoul
